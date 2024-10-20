@@ -9,7 +9,7 @@ Descripción de la tematica: Sitio web que muestra diferentes sucursales de hele
 - Catálogo de productos por sucursal.
 - Interfaz amigable para el usuario:
   
-##Informacion de uso
+## Informacion de uso
 -Usuario:webadmin
 -Contraseña:admin
 

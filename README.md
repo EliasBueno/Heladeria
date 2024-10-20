@@ -7,7 +7,11 @@ Descripción de la tematica: Sitio web que muestra diferentes sucursales de hele
 
 - Visualización de sucursales de helados.
 - Catálogo de productos por sucursal.
-- Interfaz amigable para el usuario.
+- Interfaz amigable para el usuario:
+  
+##Informacion de uso
+-Usuario:webadmin
+-Contraseña:admin
 
 ## Requisitos
 

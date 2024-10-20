@@ -10,8 +10,8 @@ Descripción de la tematica: Sitio web que muestra diferentes sucursales de hele
 - Interfaz amigable para el usuario:
   
 ## Informacion de uso
--Usuario:webadmin
--Contraseña:admin
+- Usuario:webadmin
+- Contraseña:admin
 
 ## Requisitos
 
